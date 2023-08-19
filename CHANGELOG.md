@@ -1,3 +1,6 @@
+# 3.6.0
+- Updated dependencies
+
 # 3.5.0
 - Fix listObject with utf-8 prefix
 
